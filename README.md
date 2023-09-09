@@ -1,6 +1,6 @@
 #assignment1-zoo
 
-Group memeber:
+Group member:
 
 Weilin Gao- WeiLinGao
 
